@@ -6,8 +6,7 @@ package logica;
 import java.util.ArrayList;
 
 /**
- * @author fabio Enrique Pineda
- *
+ *@author fabio Enrique Pineda
  */
 public class Cancion {
 

@@ -4,7 +4,7 @@
 package logica;
 
 /**
- * @author  Fabio Enrique Pineda Guayacan
+ * @author fabio Enrique Pineda
  *
  */
 public class TestCliente {

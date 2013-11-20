@@ -10,8 +10,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 
 /**
- *   @author fabio Enrique Pineda
- *
+ *@author fabio Enrique Pineda
  */
 public class Cliente implements Runnable {
 

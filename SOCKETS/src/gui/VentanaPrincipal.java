@@ -9,7 +9,7 @@ import gui.PanelCliente;
 import javax.swing.JFrame;
 
 /**
- * @author Fabio Enrique Pineda
+ *@author fabio Enrique Pineda
  *
  */
 public class VentanaPrincipal extends JFrame implements ActionListener{
