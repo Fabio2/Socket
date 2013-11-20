@@ -117,6 +117,7 @@ public class Servidor implements Runnable {
 		}
 
 	}
+	//metodo para iniciar el servidor
 	public void iniciarServidor(){
 		if (serverSocket == null) {
 			try {
@@ -130,6 +131,7 @@ public class Servidor implements Runnable {
 
 		}
 	}
+	//metodo detenr
 	public void detener(){
 		ejecutar=true;
 	}

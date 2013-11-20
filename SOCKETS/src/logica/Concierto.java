@@ -17,6 +17,31 @@ public class Concierto {
 	private int maxEspectadores;
 	private int estadisticas;
 	private String nombre;
+	private int costoSeg;
+	public String getNombre() {
+		return nombre;
+	}
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+
+	public int getCostoSeg() {
+		return costoSeg;
+	}
+
+	public void setCostoSeg(int costoSeg) {
+		this.costoSeg = costoSeg;
+	}
+
+	public ArrayList<Cancion> getCanciones() {
+		return canciones;
+	}
+
+	public void setCanciones(ArrayList<Cancion> canciones) {
+		this.canciones = canciones;
+	}
+
 	private ArrayList<Cancion>canciones;
 
 	public Concierto(int maxEspectadores, int estadisticas, String nombre,

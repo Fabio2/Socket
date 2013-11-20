@@ -18,12 +18,19 @@ public class Cancion {
 	private int año;
 	private String nombre;
 	private int duracion;
+	private String autor;
 	private ArrayList<String> letra;
 	/**
 	 * @return the año
 	 */
 	public int getAño() {
 		return año;
+	}
+	public String getAutor() {
+		return autor;
+	}
+	public void setAutor(String autor) {
+		this.autor = autor;
 	}
 	/**
 	 * @param año the año to set

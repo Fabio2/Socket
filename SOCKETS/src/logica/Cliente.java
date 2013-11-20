@@ -113,6 +113,7 @@ public class Cliente implements Runnable {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		//este es el inicio del hilo
 		Thread hilo = new Thread(this);
 		hilo.start();
 	}

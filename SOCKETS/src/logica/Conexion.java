@@ -56,8 +56,9 @@ public class Conexion implements Runnable {
 		this.outputStream = outputStream;
 	}
 	/**
-	 * 
+	 * constructor de la clase conexion
 	 */
+	
 	public Conexion(Socket sock) {
 		this.conexion = sock;
 		
