@@ -75,4 +75,8 @@ public class Cancion {
 		this.letra = letra;
 	}
 
+	
+	public void CargarCancion(){
+		
+	}
 }

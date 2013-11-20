@@ -118,6 +118,7 @@ public class Cliente implements Runnable {
 		hilo.start();
 	}
 
+
 	public void run() {
 		// TODO Auto-generated method stub
 		while (ejecutar) {
