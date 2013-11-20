@@ -9,7 +9,7 @@ import java.net.Socket;
 import java.util.ArrayList;
 
 /**
- * @author Fabio Enrique Pineda Guayacan
+ * @author fabio Enrique Pineda
  *
  */
 public class Servidor implements Runnable {

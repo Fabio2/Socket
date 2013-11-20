@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.net.Socket;
 
 /**
- * @author  Fabio Enrique Pineda Guayacan
+ * @author fabio Enrique Pineda
  *
  */
 public class Conexion implements Runnable {

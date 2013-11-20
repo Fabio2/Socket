@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 import javax.swing.border.TitledBorder;
 
 /**
- * @author RA302
+ * @author Fabio Enrique Pinda
  *
  */
 public class PanelCliente extends JPanel{
